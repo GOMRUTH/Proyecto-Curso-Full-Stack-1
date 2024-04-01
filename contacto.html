@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Formulario de Pedidos </title>
+        <link rel="stylesheet" href="style.css" type="text/css">
+        <script src="script.js"></script>
+    </head>
+
+    <body>
+        <main class="Contorno Principal">
+            <div class="BannerLogo">
+                <img src="img/Logo - Marca/LetraMMnegroFT.png">
+            </div>
+            <div>
+                <nav class="OpcionesMenu">
+                    <ul>
+                        <li><a href="principal.html"> Inicio </a></li>
+                        <li><a href="quienesSomos.html"> Quienes somos </a></li>
+                        <li><a href="productos.html"> Productos </a></li>
+                        <li><a href="formulario.html"> Mi carrito </a></li>
+                        <li><a href="contacto.html"> Contacto </a></li>
+                    </ul>
+                </nav>
+            </div>
+        </main>
+
+        <h1>Formulario de consulta</h1>
+        <form id="formulario-consulta">
+            <label for="nombre">Nombre y Apellido:</label><br>
+            <input type="text" id="nombre" name="nombre"><br>
+            <label for="email">Correo Electrónico:</label><br>
+            <input type="email" id="email" name="email"><br>
+            <!--<label for="telefono">Telefono:</label><br>
+            <input type="tel" pattern="[0-9()+\- ]"><br>-->
+            <label for="asunto">Asunto:</label><br>
+            <input type="text" id="asunto" name="asunto"><br>
+            <label for="consulta">Consulta:</label><br>
+            <textarea id="consulta" name="consulta"></textarea><br>
+            <button type="submit">Enviar Consulta</button>
+            <!--Aqui se mostrara los productos seleccionados-->
+        </form>
+
+    <footer class="credito"> 
+        <p> Derechos Reservados © 2024 - Ruth Gomez</p>
+    </footer>
+        
+    </body>
+</html>
