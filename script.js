@@ -3,99 +3,99 @@
 /*Productos - Agregar carrito y se dirige al Formulario de los producto que seleccionó*/
 /*Lista de productos*/
 let producto1 = {
-    nombre: "producto 1",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Colita Moño Rosa",
+    precio: 1000,
+    descripcion: "Cantidad: x2",
     imagen: "img/Productos/photo_2024-03-24_21-51-37.jpg"
 };
 let producto2 = {
-    nombre: "producto 2",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Colita Moño Azul",
+    precio: 1500,
+    descripcion: "Cantidad: x2",
     imagen: "img/Productos/photo_2024-03-24_21-51-26.jpg"
 };
 let producto3 = {
-    nombre: "producto 3",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Colita Moño Coquette",
+    precio: 900,
+    descripcion: "Cantidad: x Unid.",
     imagen: "img/Productos/9bd059a892e6655abbf32ae355e5b353.jpg"
 };
 let producto4 = {
-    nombre: "producto 4",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Colitas Moños Blanco y Azul",
+    precio: 1800,
+    descripcion: "Combo completo",
     imagen: "img/Productos/1bcdd5606e7d636121d091bb702ac0b2.jpg"
 };
 let producto5 = {
-    nombre: "producto 5",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Moño Coquette Azul y Blanco",
+    precio: 1500,
+    descripcion: "Cantidad: x Unid.",
     imagen: "img/Productos/461a82f486aaad86b9d65aa212f107db.jpg"
 };
 let producto6 = {
-    nombre: "producto 6",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Moño Coquette Blanco y Celeste",
+    precio: 1800,
+    descripcion: "Cantidad: x2",
     imagen: "img/Productos/64c574bbbd77cc1451333f793d3fe25a.jpg"
 };
 let producto7 = {
-    nombre: "producto 7",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Vincha Moños",
+    precio: 2000,
+    descripcion: "Cantidad: x3",
     imagen: "img/Productos/7778393259587103e5f45ccf826cc860.jpg"
 };
 let producto8 = {
-    nombre: "producto 8",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Moño Coquette",
+    precio: 1300,
+    descripcion: "Cantidad: x Unid.",
     imagen: "img/Productos/741bc23d9700d7d097bf554c00be1e59.jpg"
 };
 let producto9 = {
-    nombre: "producto 9",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Almohada Vaquita",
+    precio: 1600,
+    descripcion: "Cantidad: x Unid.",
     imagen: "img/Productos/photo_2024-03-24_21-50-35.jpg"
 };
 let producto10 = {
-    nombre: "producto 10",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Muñeca Piernas largas",
+    precio: 1800,
+    descripcion: "Cantidad: x Unid.",
     imagen: "img/Productos/4e455a48f061e2b5161d70612ac9b080.jpg"
 };
 let producto11 = {
-    nombre: "producto 11",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Almohada Gatito",
+    precio: 1500,
+    descripcion: "Cantidad: x Unid.",
     imagen: "img/Productos/4fd2c22d4fb69181334e03b4cc3d3a56.jpg"
 };
 let producto12 = {
-    nombre: "producto 12",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Muñeca Coqueta",
+    precio: 1000,
+    descripcion: "Cantidad: x Unid.",
     imagen: "img/Productos/66fdef09040ce827bec7fcca69b45591.jpg"
 };
 let producto13 = {
-    nombre: "producto 13",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Muñeca Gatita",
+    precio: 1100,
+    descripcion: "Cantidad x Unid.",
     imagen: "img/Productos/93fd9a33695aa3d68ba74f371e94c783.jpg"
 };
 let producto14 = {
-    nombre: "producto 14",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Muñeca Duende Blanco",
+    precio: 1300,
+    descripcion: "Cantidad: x Unid.",
     imagen: "img/Productos/5589a2b1e408c9894ebc7d2c6f21b9a4.jpg"
 };
 let producto15 = {
-    nombre: "producto 15",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Muñeco Monito Celeste",
+    precio: 1400,
+    descripcion: "Cantidad: x Unid.",
     imagen: "img/Productos/9250684287b27643701b5b78ac792a79.jpg"
 };
 let producto16 = {
-    nombre: "producto 16",
-    precio: 100,
-    descripcion: "Descripción del producto",
+    nombre: "Combo Almohada + Muñeca6",
+    precio: 1700,
+    descripcion: "sin descripcíon",
     imagen: "img/Productos/photo_2024-03-24_21-50-32.jpg"
 };
 
